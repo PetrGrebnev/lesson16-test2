@@ -1,3 +1,4 @@
 fun main(args: Array<String>) {
     println("Hello world from Petr!")
+    println("Work lesson")
 }
